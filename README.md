@@ -1,3 +1,5 @@
+# Sahil Kumar Yadav
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I+am+Sahil+Kumar+Yadav;AIML+Student+%7C+DSA+Learner;Python+%7C+C%2B%2B+%7C+Machine+Learning;Building+projects+while+learning+in+public" alt="Typing SVG" />
 </p>
