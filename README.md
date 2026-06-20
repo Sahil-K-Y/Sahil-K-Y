@@ -41,12 +41,12 @@
   <summary><h2>📘 My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Sahil-K-Y/AIML"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=AIML&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AIML"></a>
-    <a href="https://github.com/Sahil-K-Y/leetcode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=leetcode&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="leetcode"></a>
-    <a href="https://github.com/Sahil-K-Y/Cpp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=Cpp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cpp"></a>
-    <a href="https://github.com/Sahil-K-Y/Python-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=Python-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Python-"></a>
-    <a href="https://github.com/Sahil-K-Y/Hangman"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=Hangman&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hangman"></a>
-    <a href="https://github.com/Sahil-K-Y/attendance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=attendance&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="attendance"></a>
+    <a href="https://github.com/Sahil-K-Y/AI-ML-Blueprint"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=AI-ML-Blueprint&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI-ML-Blueprint"></a>
+    <a href="https://github.com/Sahil-K-Y/LeetCode-Solutions"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=LeetCode-Solutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="LeetCode-Solutions"></a>
+    <a href="https://github.com/Sahil-K-Y/Cpp-Algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=Cpp-Algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cpp-Algorithms"></a>
+    <a href="https://github.com/Sahil-K-Y/Python-Scripts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=Python-Scripts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Python-Scripts"></a>
+    <a href="https://github.com/Sahil-K-Y/Hangman-Game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=Hangman-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hangman-Game"></a>
+    <a href="https://github.com/Sahil-K-Y/Attendance-Viewer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K-Y&repo=Attendance-Viewer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Attendance-Viewer"></a>
   </p>
 
   <p align="left">
@@ -93,9 +93,9 @@
   <h3>👨‍💻 Programming Languages</h3>
 
   <p>
-    <a href="https://github.com/search?q=user%3ASahil-K-Y+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASahil-K-Y+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASahil-K-Y+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/Sahil-K-Y?tab=repositories&q=&type=&language=python"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/Sahil-K-Y?tab=repositories&q=&type=&language=c%2B%2B"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/Sahil-K-Y?tab=repositories&q=&type=&language=java"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
