@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kumsahil7973@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/P7hAo2s.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/sahil-kumar-yadav"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.com/u/Sahil-K-Y/"><img width="32px" alt="LeetCode" title="LeetCode" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="mailto:kumsahil7973@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sahil-kumar-yadav">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sahil-K-Y/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <p align="center">
@@ -15,10 +19,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sahil-K-Y?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Sahil-K-Y?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sahil-K-Y?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Sahil-K-Y/">
-    <img alt="LeetCode" title="LeetCode Profile" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=ffffff"/></a>
-  <a href="https://github.com/Sahil-K-Y/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/Sahil-K-Y-profile-views"/></a>
+  <a href="https://visitcount.itsvg.in">
+    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=Sahil-K-Y&icon=5&color=6"/></a>
 </p>
 
 <br/>
@@ -122,8 +124,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sahil-K-Y&icon=5&color=6" />
 </p>
