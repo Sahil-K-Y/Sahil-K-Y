@@ -121,12 +121,6 @@ I am an AIML student building a public portfolio around machine learning, data s
 
 > Top languages only show the public code distribution on GitHub. They do not fully represent skill level or learning depth.
 
-### LeetCode Stats
-
-<p>
-  <img src="https://leetcard.jacoblin.cool/Sahil-K-Y?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode stats" />
-</p>
-
 ### Contribution Graph
 
 <p>
