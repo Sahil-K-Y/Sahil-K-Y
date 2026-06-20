@@ -1,4 +1,4 @@
-# Sahil Kumar Yadav
+# Sahil Kumar
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi%2C+I+am+Sahil+Kumar+Yadav;AIML+Student+%7C+DSA+Learner;Python+%7C+C%2B%2B+%7C+Machine+Learning;Building+projects+while+learning+in+public" alt="Typing SVG" />
@@ -80,19 +80,6 @@ I am an AIML student building a public portfolio around machine learning, data s
 | Documentation | Professional README files with features, setup, structure, and roadmap |
 
 ## My Favorite Tools
-
-### Programming and Markup Languages
-
-<p>
-  <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white">
-  <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white">
-  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-</p>
 
 ### AI/ML and Data Science
 
