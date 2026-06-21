@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on my **[AI/ML Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint)** — a 203-day roadmap from EDA to Transformers & MLOps
+- 🔭 Currently working on my **[AI/ML Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint)** — a 200-day roadmap from EDA to Transformers & MLOps
 - 🧩 Actively solving **LeetCode** problems in C++ — **150+ solutions** and counting!
 - 🌱 Learning **Machine Learning, Deep Learning, and Python** for AI/ML
 - 💬 Ask me about **C++, DSA, Trees, Graphs, Dynamic Programming**
