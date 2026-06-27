@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML Learner | C++ & DSA Enthusiast | Building in Public</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learning+AI%2FML+one+commit+at+a+time;C%2B%2B+%7C+DSA+%7C+LeetCode+Grinder;203-Day+AI%2FML+Roadmap+in+progress...;Building+cool+projects+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learning+AI%2FML+one+commit+at+a+time;C%2B%2B+%7C+DSA+%7C+LeetCode+Grinder;200-Day+AI%2FML+Roadmap+in+progress...;Building+cool+projects+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,11 +36,11 @@
 
 ---
 
-## 🤖 AI/ML Blueprint — 203-Day Roadmap
+## 🤖 AI/ML Blueprint — 200-Day Roadmap
 
 <p align="center">
   <a href="https://github.com/Sahil-K-Y/AI-ML-Blueprint">
-    <img src="https://img.shields.io/badge/AI%2FML%20Blueprint-203%20Days-blueviolet?style=for-the-badge&logo=jupyter&logoColor=white" alt="AI/ML Blueprint" />
+    <img src="https://img.shields.io/badge/AI%2FML%20Blueprint-200%20Days-blueviolet?style=for-the-badge&logo=jupyter&logoColor=white" alt="AI/ML Blueprint" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ A comprehensive structured journey from Zero to Job-Ready AI/ML Engineer using J
 
 | Project | Description | Tech |
 |:---|:---|:---:|
-| 🤖 [AI-ML-Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint) | 203-day AI/ML mastery roadmap with Jupyter notebooks | Python, Jupyter |
+| 🤖 [AI-ML-Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint) | 200-day AI/ML mastery roadmap with Jupyter notebooks | Python, Jupyter |
 | 🧩 [LeetCode-Solutions](https://github.com/Sahil-K-Y/LeetCode-Solutions) | 150+ solutions organized by topic & difficulty | C++ |
 | 📅 [Attendance-Viewer](https://github.com/Sahil-K-Y/Attendance-Viewer) | Web-based attendance tracking with subject-wise lookup | HTML, CSS, JS |
 | 🔢 [Calculator-App](https://github.com/Sahil-K-Y/Calculator-App) | Feature-rich calculator with glassmorphism UI | JavaScript |
