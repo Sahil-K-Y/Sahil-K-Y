@@ -46,14 +46,24 @@
 
 A comprehensive structured journey from Zero to Job-Ready AI/ML Engineer using Jupyter Notebooks.
 
-| Phase | Topics |
+| Phase | Scope & Topics |
 |:---:|:---|
-| 📊 Phase 1 | Python for ML, EDA, Data Wrangling |
-| 🧠 Phase 2 | Classical ML — Regression, Classification, Clustering |
-| 🌲 Phase 3 | Ensemble Methods, Feature Engineering |
-| 🔥 Phase 4 | Deep Learning — CNNs, RNNs, LSTMs |
-| 🤗 Phase 5 | Transformers & NLP |
-| ⚙️ Phase 6 | MLOps — Model Deployment & Monitoring |
+| 📊 Phase 1 | Python for ML, EDA & Feature Engineering |
+| 📈 Phase 2 | Regression & Streamlit Dashboards |
+| 🧠 Phase 3 | Logistic Regression Deep Dive |
+| ⚙️ Phase 4 | Advanced Feature Engineering |
+| 🎯 Phase 5 | Classification Mastery & Imbalanced Data |
+| 🌲 Phase 6 | Decision Trees & Ensemble Methods (XGBoost/LightGBM) |
+| 📉 Phase 7 | Support Vector Machines (SVM) & Calibration |
+| ⚡ Phase 8 | Deep Learning — Artificial Neural Networks (ANN) |
+| 👁️ Phase 9 | Computer Vision — Convolutional Neural Networks (CNN) |
+| 🗣️ Phase 10 | Natural Language Processing (NLP) Basics |
+| 🤗 Phase 11 | Advanced NLP, Transformers & AI Agents |
+| ⚛️ Phase 12 | JS & React Fundamentals for ML Engineers |
+| 🔌 Phase 13 | Full Stack AI (React + FastAPI + MongoDB) |
+| 🐳 Phase 14 | ML Pipelines & MLOps (MLflow + Docker) |
+| 🏗️ Phase 15 | Capstone Project (Industry-Grade Model & Deployment) |
+| 🚀 Phase 16 | Final Stretch — System Design & Placements |
 
 🔗 **[Explore the Blueprint →](https://github.com/Sahil-K-Y/AI-ML-Blueprint)**
 
