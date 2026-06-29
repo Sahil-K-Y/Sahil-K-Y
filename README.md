@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on my **[AI/ML Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint)** — a 7-month (214-day) roadmap from EDA to Transformers & MLOps (June 2026 → December 2026)
+- 🔭 Currently working on my **[AI/ML Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint)** — a 7-month (200-day) roadmap from EDA to Transformers & MLOps (June 2026 → December 2026)
 - 🧩 Actively solving **LeetCode** problems in C++ — **150+ solutions** and counting!
 - 🌱 Learning **Machine Learning, Deep Learning, and Python** for AI/ML
 - 💬 Ask me about **C++, DSA, Trees, Graphs, Dynamic Programming**
