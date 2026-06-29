@@ -9,7 +9,7 @@
 
   <img src="https://img.shields.io/badge/Focus-AIML%20Engineering-0f172a?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Roadmap-7%20Months-1d4ed8?style=for-the-badge&logo=googlecalendar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Phase%203%20Active-2563eb?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Phase%202%20Active-2563eb?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Core%20Stack-Python%20%7C%20ML%20%7C%20FastAPI%20%7C%20React-0ea5e9?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
@@ -117,12 +117,12 @@ I’m focused on turning learning into visible technical output through:
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 2</td>
         <td style="padding: 10px; text-align: left;">Regression & Streamlit Dashboards</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); white-space: nowrap;">Completed ✅</span></td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); white-space: nowrap;">Active 🚀</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 3</td>
         <td style="padding: 10px; text-align: left;">Logistic Regression Deep Dive</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); white-space: nowrap;">Active 🚀</span></td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 4</td>
@@ -214,12 +214,12 @@ I’m focused on turning learning into visible technical output through:
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 2</td>
         <td style="padding: 10px; text-align: left;">Regression & Streamlit Dashboards</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); white-space: nowrap;">Completed ✅</span></td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); white-space: nowrap;">Active 🚀</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 3</td>
         <td style="padding: 10px; text-align: left;">Logistic Regression Deep Dive</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); white-space: nowrap;">Active 🚀</span></td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 4</td>
