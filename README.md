@@ -26,17 +26,17 @@
 Hi, I'm **Sahil Kumar**.
 
 I'm currently building myself into an **AIML Engineer** through a structured **7-month public roadmap** focused on:
-- machine learning foundations
-- end-to-end project building
-- deployment with **FastAPI + React**
-- deep learning, NLP, and modern AI workflows
-- portfolio and job readiness by **December 2026**
+- Machine learning foundations
+- End-to-end project building
+- Deployment with **FastAPI + Docker**
+- Deep learning, NLP, and modern AI workflows
+- Portfolio and job readiness by **December 2026**
 
 I like combining:
 - **AI/ML learning**
-- **real project execution**
-- **public accountability**
-- **problem-solving through DSA and coding practice**
+- **Real project execution**
+- **Public accountability**
+- **Problem-solving through DSA and coding practice**
 
 </div>
 
@@ -51,13 +51,13 @@ I like combining:
 <div style="display: grid; grid-template-columns: repeat(2, minmax(260px, 1fr)); gap: 16px;">
   <div style="background: linear-gradient(135deg, #052e16, #14532d); border: 1px solid #22c55e; border-radius: 16px; padding: 18px; color: #dcfce7;">
     <h3>✅ Completed</h3>
-    <p><strong>Phase 1:</strong> EDA & Feature Engineering</p>
-    <p><strong>Phase 2:</strong> Regression & Streamlit</p>
+    <p><strong>Phase 1:</strong> Linear Regression & Regularization (Days 1–13)</p>
+    <p><strong>Phase 2:</strong> Logistic Regression & Classification (Days 14–21)</p>
   </div>
   <div style="background: linear-gradient(135deg, #172554, #1d4ed8); border: 1px solid #60a5fa; border-radius: 16px; padding: 18px; color: #dbeafe;">
     <h3>🤖 Active</h3>
-    <p><strong>Phase 3:</strong> Logistic Regression Deep Dive</p>
-    <p>Titanic classifier, metrics, CV, leakage, regularization, threshold tuning</p>
+    <p><strong>Phase 3:</strong> Tree Models & SVM (Days 22–38)</p>
+    <p>Decision Trees, split metrics, pruning, Support Vector Machines, kernels, Naive Bayes, KNN</p>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ I like combining:
 <div style="background: linear-gradient(135deg, #f8fafc, #e2e8f0); border: 1px solid #cbd5e1; border-radius: 18px; padding: 20px; color: #0f172a;">
 
 ### 🤖 AI/ML Blueprint
-A structured **7-month AIML engineering roadmap** from EDA to deep learning, NLP, deployment, and MLOps.
+A structured **7-month AIML engineering roadmap** from Linear Regression to deep learning, NLP, deployment, and MLOps.
 
 🔗 **Repo:** [AI-ML-Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint)
 
@@ -83,10 +83,10 @@ My growing problem-solving repository in **C++**, covering arrays, trees, graphs
 
 ### 📈 Ongoing Build Philosophy
 I’m focused on turning learning into visible technical output through:
-- notebooks
-- mini projects
-- deployed apps
-- documentation
+- Notebooks
+- Mini projects
+- Deployed apps
+- Documentation
 - GitHub consistency
 
 </div>
@@ -95,7 +95,7 @@ I’m focused on turning learning into visible technical output through:
 
 <div align="center">
 
-## 🧠 AIML Roadmap Snapshot
+## 🧠 AIML Roadmap Snapshot (214-Day Blueprint)
 
 </div>
 
@@ -111,82 +111,87 @@ I’m focused on turning learning into visible technical output through:
     <tbody>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 1</td>
-        <td style="padding: 10px; text-align: left;">Python for ML, EDA & Feature Engineering</td>
+        <td style="padding: 10px; text-align: left;">Linear Regression & Regularization (Days 001-013)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); white-space: nowrap;">Completed ✅</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 2</td>
-        <td style="padding: 10px; text-align: left;">Regression & Streamlit Dashboards</td>
+        <td style="padding: 10px; text-align: left;">Logistic Regression & Classification (Days 014-021)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); white-space: nowrap;">Completed ✅</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 3</td>
-        <td style="padding: 10px; text-align: left;">Logistic Regression Deep Dive</td>
+        <td style="padding: 10px; text-align: left;">Tree Models & SVM (Days 022-038)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); white-space: nowrap;">Active 🚀</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 4</td>
-        <td style="padding: 10px; text-align: left;">ADVANCED PREPROCESSING & CORE CLASSIFIERS</td>
+        <td style="padding: 10px; text-align: left;">Boosting & Advanced Ensembles (Days 039-053)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 5</td>
-        <td style="padding: 10px; text-align: left;">TREES, ENSEMBLES, BOOSTING, SVM & CLUSTERING</td>
+        <td style="padding: 10px; text-align: left;">Advanced Preprocessing, Imbalanced Learning & XAI (Days 054-069)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 6</td>
-        <td style="padding: 10px; text-align: left;">FASTAPI DEPLOYMENT FOUNDATIONS</td>
+        <td style="padding: 10px; text-align: left;">Unsupervised Learning (Days 070-085)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 7</td>
-        <td style="padding: 10px; text-align: left;">Deep Learning Foundations (PyTorch Focus)</td>
+        <td style="padding: 10px; text-align: left;">Time Series Analysis (Days 086-096)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 8</td>
-        <td style="padding: 10px; text-align: left;">Computer Vision Essentials</td>
+        <td style="padding: 10px; text-align: left;">Deep Learning — ANN & Optimizers (Days 097-112)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 9</td>
-        <td style="padding: 10px; text-align: left;">NLP Foundations</td>
+        <td style="padding: 10px; text-align: left;">Deep Learning — CNN (Days 113-123)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 10</td>
-        <td style="padding: 10px; text-align: left;">TRANSFORMERS, LLMs, EMBEDDINGS, RAG & AGENTS</td>
+        <td style="padding: 10px; text-align: left;">Deep Learning — RNN & Sequence Models (Days 124-133)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 11</td>
-        <td style="padding: 10px; text-align: left;">REACT & WEB FRONTEND FOR ML</td>
+        <td style="padding: 10px; text-align: left;">Natural Language Processing (Days 134-149)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 12</td>
-        <td style="padding: 10px; text-align: left;">FULL-STACK AI INTEGRATION</td>
+        <td style="padding: 10px; text-align: left;">Computer Vision (Days 150-164)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 13</td>
-        <td style="padding: 10px; text-align: left;">PRODUCTION ML PIPELINES & MLOPS</td>
+        <td style="padding: 10px; text-align: left;">MLOps — Infrastructure & APIs (Days 165-174)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 14</td>
-        <td style="padding: 10px; text-align: left;">CAPSTONE DEVELOPMENT</td>
+        <td style="padding: 10px; text-align: left;">MLOps — Experiment Tracking, Pipelines & CI/CD (Days 175-189)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 15</td>
-        <td style="padding: 10px; text-align: left;">JOB READINESS & PORTFOLIO LAUNCH</td>
+        <td style="padding: 10px; text-align: left;">LLMs & Generative AI (Days 190-199)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 16</td>
-        <td style="padding: 10px; text-align: left;">FINAL REVIEW, REVISION & REFLECTION</td>
+        <td style="padding: 10px; text-align: left;">Agentic AI & Systems (Days 200-207)</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
+        <td style="padding: 10px; text-align: center; font-weight: bold; color: #38bdf8;">Phase 17</td>
+        <td style="padding: 10px; text-align: left;">Career Preparation (Days 208-214)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
     </tbody>
@@ -252,6 +257,8 @@ I’m focused on turning learning into visible technical output through:
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 </div>
@@ -276,6 +283,8 @@ I’m focused on turning learning into visible technical output through:
 
 ---
 
+<div align="center">
+
 ## 📊 Development Approach
 
 </div>
@@ -283,10 +292,10 @@ I’m focused on turning learning into visible technical output through:
 <div style="background: linear-gradient(135deg, #1e1b4b, #312e81); border: 1px solid #6366f1; border-radius: 18px; padding: 20px; color: #e0e7ff;">
 
 I’m building this journey around:
-- **consistency over hype**
-- **projects over passive learning**
-- **public documentation over hidden practice**
-- **real engineering workflows over theory-only study**
+- **Consistency over hype**
+- **Projects over passive learning**
+- **Public documentation over hidden practice**
+- **Real engineering workflows over theory-only study**
 
 My aim is not just to learn algorithms — it is to become capable of building, evaluating, deploying, and explaining AI/ML systems.
 
