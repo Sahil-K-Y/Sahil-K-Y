@@ -257,8 +257,6 @@ I’m focused on turning learning into visible technical output through:
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tech Stack
 
 </div>
@@ -283,8 +281,6 @@ I’m focused on turning learning into visible technical output through:
 
 ---
 
-<div align="center">
-
 ## 📊 Development Approach
 
 </div>
@@ -299,6 +295,20 @@ I’m building this journey around:
 
 My aim is not just to learn algorithms — it is to become capable of building, evaluating, deploying, and explaining AI/ML systems.
 
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Contribution Statistics
+
+</div>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 12px; margin-bottom: 25px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-K-Y&show_icons=true&theme=tokyonight" alt="Sahil's GitHub Stats" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-K-Y&theme=tokyonight" alt="Sahil's GitHub Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-K-Y&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%;" />
 </div>
 
 ---
