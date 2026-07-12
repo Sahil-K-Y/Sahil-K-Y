@@ -197,7 +197,7 @@ I’m focused on turning learning into visible technical output through:
 
 <div align="center">
 
-## 🧩 200-Day DSA Roadmap Snapshot
+## 🧩 100-Day Graph-First DSA Roadmap
 
 </div>
 
@@ -212,38 +212,33 @@ I’m focused on turning learning into visible technical output through:
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
-        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 1</td>
-        <td style="padding: 10px; text-align: left;">🌲 Tree Extension (Heap, Trie, Advanced Trees & BST, Recursion)</td>
+        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 0</td>
+        <td style="padding: 10px; text-align: left;">🌐 Graph Algorithms (BFS, DFS, Topo Sort, Shortest Path, MST, SCC)</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); white-space: nowrap;">Active 🚀</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
+        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 1</td>
+        <td style="padding: 10px; text-align: left;">🌲 Heaps & Advanced BST (K-Way Merge, Two Heaps, Search Space)</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 2</td>
-        <td style="padding: 10px; text-align: left;">🔍 Array Patterns & Binary Search (Hash Table, Prefix Sum, Sliding Window, BS, Sorting, Bit Manip)</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Pending ⏳</span></td>
+        <td style="padding: 10px; text-align: left;">⚙️ Greedy & Backtracking (Intervals, N-Queens, Subsets, Jump Game)</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 3</td>
-        <td style="padding: 10px; text-align: left;">🌐 Graphs (Basics, DFS, BFS, Union-Find/DSU, Topological Sort, Shortest Path, MST)</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Pending ⏳</span></td>
+        <td style="padding: 10px; text-align: left;">🧠 Dynamic Programming (1D, 2D, Knapsack, LIS, MCM, Tree DP)</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 4</td>
-        <td style="padding: 10px; text-align: left;">⚙️ Algorithms (Backtracking, Divide & Conquer, Greedy, DP + Memoization)</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Pending ⏳</span></td>
+        <td style="padding: 10px; text-align: left;">🔤 Tries, Advanced Graph, Bit Manipulation</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 5</td>
-        <td style="padding: 10px; text-align: left;">📊 Advanced Data Structures (Monotonic Stack/Queue, Segment Tree, Fenwick Tree/BIT)</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Pending ⏳</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
-        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 6</td>
-        <td style="padding: 10px; text-align: left;">🔤 Advanced Strings & Math (Rolling Hash, KMP/Z Algorithm, Suffix Array, Number Theory, Combinatorics)</td>
-        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Pending ⏳</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
-        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 7</td>
-        <td style="padding: 10px; text-align: left;">📐 FAANG Hard Mock Sprints & Design</td>
+        <td style="padding: 10px; text-align: left;">📐 Advanced Data Structures & Mock Intervews</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
     </tbody>
