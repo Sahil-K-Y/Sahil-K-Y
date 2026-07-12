@@ -9,7 +9,7 @@
 
   <img src="https://img.shields.io/badge/Focus-AIML%20Engineering-0f172a?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Roadmap-7%20Months-1d4ed8?style=for-the-badge&logo=googlecalendar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Phase%203%20Active-2563eb?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Day%20028%20%7C%20Phase%203-2563eb?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Core%20Stack-Python%20%7C%20ML%20%7C%20FastAPI%20%7C%20React-0ea5e9?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
@@ -55,9 +55,9 @@ I like combining:
     <p><strong>Phase 2:</strong> Logistic Regression & Classification (Days 14–21)</p>
   </div>
   <div style="background: linear-gradient(135deg, #172554, #1d4ed8); border: 1px solid #60a5fa; border-radius: 16px; padding: 18px; color: #dbeafe;">
-    <h3>🤖 Active</h3>
+    <h3>🤖 Active — Day 028 / 038</h3>
     <p><strong>Phase 3:</strong> Tree Models & SVM (Days 22–38)</p>
-    <p>Decision Trees, split metrics, pruning, Support Vector Machines, kernels, Naive Bayes, KNN</p>
+    <p>✅ Decision Trees (Gini, Entropy, Pruning, Regressor) | ✅ SVM (Kernels, Tuning) | ⏳ Naive Bayes, KNN, Ensembles, Random Forest</p>
   </div>
 </div>
 
@@ -95,7 +95,7 @@ I’m focused on turning learning into visible technical output through:
 
 <div align="center">
 
-## 🧠 AIML Roadmap Snapshot (214-Day Blueprint)
+## 🧠 AIML Roadmap Snapshot (200-Day Blueprint)
 
 </div>
 
