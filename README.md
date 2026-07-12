@@ -76,11 +76,6 @@ A structured **7-month AIML engineering roadmap** from Linear Regression to deep
 
 🔗 **Repo:** [AI-ML-Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint)
 
-### 🧩 LeetCode Solutions
-My growing problem-solving repository in **C++**, covering arrays, trees, graphs, DP, and more.
-
-🔗 **Repo:** [LeetCode-Solutions](https://github.com/Sahil-K-Y/LeetCode-Solutions)
-
 ### 📈 Ongoing Build Philosophy
 I’m focused on turning learning into visible technical output through:
 - Notebooks
