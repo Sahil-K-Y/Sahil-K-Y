@@ -197,7 +197,7 @@ I’m focused on turning learning into visible technical output through:
 
 <div align="center">
 
-## 🧩 100-Day Graph-First DSA Roadmap
+## 🧩 180-Day Graph-First DSA Roadmap
 
 </div>
 
@@ -233,12 +233,32 @@ I’m focused on turning learning into visible technical output through:
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 4</td>
-        <td style="padding: 10px; text-align: left;">🔤 Tries, Advanced Graph, Bit Manipulation</td>
+        <td style="padding: 10px; text-align: left;">🔤 Tries, Bit Manipulation & Advanced Graphs</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
       <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
         <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 5</td>
-        <td style="padding: 10px; text-align: left;">📐 Advanced Data Structures & Mock Intervews</td>
+        <td style="padding: 10px; text-align: left;">📐 Segment Tree, KMP, Rabin-Karp, Z, Manacher, LRU/LFU</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
+        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 6</td>
+        <td style="padding: 10px; text-align: left;">🔢 Math & Number Theory</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
+        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 7</td>
+        <td style="padding: 10px; text-align: left;">🧩 Array/String Pattern Repair & Sorting/Recursion Coverage</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
+        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 8</td>
+        <td style="padding: 10px; text-align: left;">🏆 Striver SDE Interview Validation + Blind Cold Solving</td>
+        <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: rgba(30, 41, 59, 0.1);">
+        <td style="padding: 10px; text-align: center; font-weight: bold; color: #2ebf91;">Phase 9</td>
+        <td style="padding: 10px; text-align: left;">🎙️ Final Mocks + RED/YELLOW Weakness Repair</td>
         <td style="padding: 10px; text-align: center;"><span style="display: inline-block; padding: 3px 8px; border-radius: 12px; font-size: 10px; font-weight: bold; background: rgba(148, 163, 184, 0.1); color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.2); white-space: nowrap;">Upcoming ⏳</span></td>
       </tr>
     </tbody>
