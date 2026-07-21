@@ -1,16 +1,12 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:0E7490,100:38BDF8&height=240&section=header&text=Sahil%20Kumar&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20in%20the%20Making%20%E2%80%A2%20Algorithmic%20Problem%20Solver&descAlignY=57&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A7%A0;Building+Strong+Foundations+in+Machine+Learning+%F0%9F%A4%96;Solving+Data+Structures+%26+Algorithms+in+C%2B%2B+%E2%9A%99%EF%B8%8F;Learning+Through+Theory%2C+Code+%26+Experiments+%F0%9F%94%AC;From+Machine+Learning+to+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br/><br/>
 <!-- ====================================================== -->
 <!--                    PREMIUM HERO                        -->
 <!-- ====================================================== -->
 <div align="center">
   <!-- Waving Gradient Capsule Header (Slate-Slate-Cyan-SkyBlue Cinematic Blend) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:0E7490,100:38BDF8&height=240&section=header&text=Sahil%20Kumar&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%26%20Systems%20Engineer%20%E2%80%A2%20Algorithmic%20Problem%20Solver&descAlignY=57&descSize=18" width="100%"/>
+
+  <!-- JetBrains Mono Typing Core SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A7%A0;Closed-Form+Solvers+%E2%86%92+Distributed+MLOps+%E2%86%92+Stateful+Agents;Solving+Advanced+DSA+%26+LeetCode+Patterns+in+C%2B%2B+%E2%9A%99%EF%B8%8F;Currently+Active+On+Day+039%2F365+of+Master+Bootcamp+%F0%9F%93%93;Learning+Through+Theory%2C+Scratch+Code+%26+Rigorous+Experiments+%F0%9F%94%AC" alt="Typing SVG"/>
   <br/><br/>
 
   <!-- High-Fidelity Custom Badges -->
@@ -19,7 +15,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sahil-K-Y&label=CORE+ACCESSES&color=0E7490&style=for-the-badge" alt="Views"/>
   <img src="https://img.shields.io/github/followers/Sahil-K-Y?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/ROADMAP-Day%2035%20%2F%20214-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Roadmap"/>
+  <img src="https://img.shields.io/badge/ROADMAP-Day%2039%20%2F%20365-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Roadmap"/>
   
   <br/><br/>
 
@@ -65,10 +61,10 @@ My ultimate objective is to look past simple model fitting (`model.fit()`) and m
 *Math & Statistical Learning*
 <br/><br/>
 <ul align="left">
-<li><b>Active Focus</b>: Random Forests</li>
-<li>Bagging & Out-of-Bag (OOB) Math</li>
-<li>Hyperparameter Tuning with Optuna</li>
-<li>Taylor-regularized Boosting Theory</li>
+<li><b>Active Focus</b>: Boosting & Ensembles</li>
+<li>Gradient Boosting custom impl</li>
+<li>XGBoost & LightGBM native APIs</li>
+<li>Optuna hyperparam auto-tuning</li>
 </ul>
 
 </td>
@@ -364,7 +360,7 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
   `Generative AI & LLMs` • `vLLM serving` • `MLOps Pipelines (MLflow/DVC)` • `Agentic AI (LangGraph)`
   
   <br/>
-  <sub><i>These represent the scheduled phases of my 214-day roadmap, not technologies I claim to have mastered yet.</i></sub>
+  <sub><i>These represent the scheduled phases of my 365-day roadmap, not technologies I claim to have mastered yet.</i></sub>
 </div>
 
 ---
@@ -415,7 +411,7 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 <!-- ====================================================== -->
 <!--                    ROADMAP                             -->
 <!-- ====================================================== -->
-## 🗺️ The Road Ahead // Detailed 214-Day Timeline
+## 🗺️ The Road Ahead // Detailed 365-Day Timeline
 
 <div align="center">
 I'm executing a highly structured, day-by-day learning journey designed to move systematically from <b>closed-form tabular mathematics</b> to production-grade AI engineering.
@@ -443,28 +439,23 @@ I'm executing a highly structured, day-by-day learning journey designed to move 
 <br/>
 
 <details>
-<summary><b>🗺️ Expand / Collapse Detailed 17-Phase Operational Log (Days 001–214)</b></summary>
+<summary><b>🗺️ Expand / Collapse Detailed 12-Phase Operational Log (Days 001–365)</b></summary>
 <br/>
 
 | Phase | Days | Focused Domain | Core Advanced Milestone |
 | :---: | :---: | :--- | :--- |
-| **01** | 001–013 | Regression & Regularization | Closed-form SVD Normal Equation Solvers, L1/L2 Convexity proofs |
-| **02** | 014–021 | Classification | Bernoulli Likelihood maximization, Multiclass Softmax logits map |
-| **03** | 022–038 | Trees, SVM & Ensembles | Decision trees CCP pruning, support vector hinge loss, Random Forest |
-| **04** | 039–053 | Boosting & Advanced Ensembles | Gradient boosting residuals step weights, XGBoost Taylor splits |
-| **05** | 054–069 | Preprocessing, Imbalanced & XAI | KNNImputer, SMOTE Tomek Links, SHAP values game theory coalitions |
-| **06** | 070–085 | Unsupervised Learning | K-Means convergence math, PCA covariance SVD, t-SNE & UMAP |
-| **07** | 086–096 | Time Series | Stationarity Augmented Dickey-Fuller tests, Prophet seasonal logs |
-| **08** | 097–112 | Neural Networks & PyTorch | Computational graphs backpropagation calculus, custom training loops |
-| **09** | 113–123 | CNNs for Vision | Spatial channel shape calculus, ResNet identity skip paths |
-| **10** | 124–133 | Sequence Models & Autoencoders | GRU/LSTM gate formulations, VAE reparameterizations, DCGAN minimax |
-| **11** | 134–149 | NLP & Transformers | Word2Vec CBOW Skip-gram, QKV scaled dot-product Attention math |
-| **12** | 150–164 | Computer Vision | ORB descriptor matching, YOLOv8 anchor-free object detection heads |
-| **13** | 165–174 | MLOps Infrastructure & APIs | Docker multi-stage containers, FastAPI asynchronous event loops |
-| **14** | 175–189 | MLOps Pipelines, Tracking & CICD | DVC reproducible pipelines, MLflow staging model gates, Git Actions |
-| **15** | 190–199 | Generative AI & LLMs | QLoRA 4-bit double quantization, Cohere contextual re-rank, HyDE |
-| **16** | 200–207 | Agentic AI & Systems | LangGraph stateful cyclic graphs, CrewAI specialist agent roles |
-| **17** | 208–214 | Career & Interview Prep | FAANG scale ML system design, from-scratch NumPy algorithms |
+| **01** | 001–039 | Core ML & Foundations | Verbatim locked completed days, Gradient Descent math, Trees/SVM baseline classifiers |
+| **02** | 040–056 | Finish Core & Adv. Classical ML | Gradient Boosting custom impl, XGBoost/LightGBM/CatBoost, Optuna, Calibrations & XAI |
+| **03** | 057–077 | Unsupervised & Time Series | K-Means, GMM EM algorithms, t-SNE/UMAP, ARIMA/SARIMA, and E2E Tabular System |
+| **04** | 078–119 | Deep Learning & PyTorch | Backprop calculus derivations, custom training loops, Adam/AdamW optimizers, and PyTorch DL Pipeline |
+| **05** | 120–161 | Computer Vision & Multimodals | CNNs (ResNet/EfficientNet), custom YOLOv8, U-Net Segmentation, and CV system deployment |
+| **06** | 162–182 | Sequence Models & Recurrents | Vanilla RNNs, BPTT derivation, LSTMs/GRUs gate mechanics, attention scoring, bidirectional recurrents |
+| **07** | 183–231 | NLP & Transformers | Word2Vec CBOW/Skip-gram, scaled dot-product Multi-Head Attention, BERT/GPT architecture, Transformer NLP |
+| **08** | 232–259 | MLOps & Data Engineering | SQL Window Functions, FastAPI serving, Docker multi-containers, DVC versioning, and CI/CD pipelines |
+| **09** | 260–308 | Generative AI, RAG & LLMs | Context windows (RoPE), Hybrid Search, reranking, RAGAS, LoRA/QLoRA math, Llama-3 fine-tuning, RAG |
+| **10** | 309–336 | Agentic AI Systems | Tool calling, ReAct reasoning loop, LangGraph stateful cyclic graphs, supervisor patterns, MCP servers |
+| **11** | 337–350 | Reinforcement Learning | Bellman equations, Monte Carlo, Q-Learning & SARSA from scratch, Gymnasiums, DQN, PPO |
+| **12** | 351–365 | LLMOps, Capstone & Careers | Langfuse tracking, Redis semantic caches, final Flagship Capstone, mock interviews, career readiness |
 
 </details>
 
