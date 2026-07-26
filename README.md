@@ -3,7 +3,7 @@
 <!-- ====================================================== -->
 <div align="center">
   <!-- Waving Gradient Capsule Header (Slate-Slate-Cyan-SkyBlue Cinematic Blend) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:0E7490,100:38BDF8&height=240&section=header&text=Sahil%20Kumar&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%26%20Systems%20Engineer%20%E2%80%A2%20Algorithmic%20Problem%20Solver&descAlignY=57&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0E7490&height=220&section=header&text=Sahil%20Kumar&fontSize=56&fontColor=F8FAFC&fontAlignY=36&desc=AI/ML%20and%20Systems%20Engineer%20%7C%20Algorithmic%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
 
   <!-- JetBrains Mono Typing Core SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A7%A0;Closed-Form+Solvers+%E2%86%92+Distributed+MLOps+%E2%86%92+Stateful+Agents;Solving+Advanced+DSA+%26+LeetCode+Patterns+in+C%2B%2B+%E2%9A%99%EF%B8%8F;Currently+Active+On+Day+039%2F365+of+Master+Bootcamp+%F0%9F%93%93;Learning+Through+Theory%2C+Scratch+Code+%26+Rigorous+Experiments+%F0%9F%94%AC" alt="Typing SVG"/>
