@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0E7490&height=220&section=header&text=Sahil%20Kumar&fontSize=56&fontColor=F8FAFC&fontAlignY=36&desc=AI/ML%20Systems%20Engineer%20%7C%20Algorithmic%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
 
   <!-- JetBrains Mono Typing Core SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Executing+Day+050%2F365+of+AI%2FML+Master+Bootcamp+%F0%9F%93%93;Advanced+Boosting+%26+Feature+Engineering+Phase+%F0%9F%94%AC;Solving+200%2B+DSA+%26+LeetCode+Patterns+in+C%2B%2B+%E2%9A%99%EF%B8%8F;Mathematical+Rigor+%E2%86%92+Scratch+Code+%E2%86%92+Production+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=AI%2FML+Systems+Engineering+%26+Production+MLOps+%F0%9F%93%93;Advanced+Boosting+%26+Feature+Engineering+%F0%9F%94%AC;Solving+200%2B+DSA+%26+LeetCode+Patterns+in+C%2B%2B+%E2%9A%99%EF%B8%8F;Mathematical+Rigor+%E2%86%92+Scratch+Code+%E2%86%92+Production+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
   <br/><br/>
 
   <!-- High-Fidelity Custom Badges -->
@@ -15,7 +15,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sahil-K-Y&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge" alt="Views"/>
   <img src="https://img.shields.io/github/followers/Sahil-K-Y?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/ROADMAP-Day%2050%20%2F%20365-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Roadmap"/>
   
   <br/><br/>
 
@@ -53,7 +52,7 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 *Advanced Classical ML*
 <br/><br/>
 <ul align="left">
-<li><b>Phase 2:</b> Boosting & Feature Eng.</li>
+<li>Boosting & Feature Eng.</li>
 <li>XGBoost / LightGBM / CatBoost</li>
 <li>SHAP & LIME Interpretability</li>
 <li>Sklearn Production Pipelines</li>
@@ -66,10 +65,10 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 *Graph-First Dual-Track*
 <br/><br/>
 <ul align="left">
-<li><b>200+</b> Problems Solved</li>
 <li>Graphs, Trees & BSTs</li>
 <li>Binary Search & DP Patterns</li>
 <li>36 Topic Categories in C++</li>
+<li>C++ STL Implementations</li>
 </ul>
 
 </td>
@@ -159,30 +158,27 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 </tr>
 </table>
 
-<div align="center">
-  <code>✅ Completed</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔄 In Progress</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔜 Upcoming</code>
-</div>
-
----
-
-### 🗺️ 12-Phase Roadmap Tracker
+### 🗺️ 15-Phase Curriculum Roadmap
 
 <div align="center">
 
-| Phase | Focus Area | Days | Status | Progress |
-| :---: | :--- | :---: | :---: | :--- |
-| **01** | Core ML & Foundations | 001–038 | ✅ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` |
-| **02** | Advanced Classical ML & Feature Engineering | 039–056 | 🔄 | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `67%` |
-| **03** | Unsupervised Learning, Time Series & E2E Project | 057–077 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **04** | Deep Learning Foundations & PyTorch | 078–119 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **05** | Computer Vision & Multimodal AI | 120–161 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **06** | Sequence Models & Recurrent Architectures | 162–182 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **07** | NLP & Transformer Ecosystem | 183–231 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **08** | MLOps & Data Engineering | 232–259 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **09** | Generative AI, RAG & LLM Fine-Tuning | 260–308 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **10** | Agentic AI & Multi-Agent Systems | 309–336 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **11** | Reinforcement Learning | 337–350 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| **12** | LLMOps, Capstone & Career Readiness | 351–365 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Phase | Focus Area | Days |
+| :---: | :--- | :---: |
+| **00** | EDA & Feature Engineering | Foundations |
+| **01** | Linear Regression & Regularization | 001–013 |
+| **02** | Logistic Regression & Classification | 014–021 |
+| **03** | Tree Models & SVM | 022–038 |
+| **04** | Boosting & Advanced Ensembles | 039–056 |
+| **05** | Unsupervised Learning & Time Series | 057–077 |
+| **06** | Deep Learning Foundations & PyTorch | 078–119 |
+| **07** | Computer Vision & Multimodal AI | 120–161 |
+| **08** | Sequence Models & Recurrent Architectures | 162–182 |
+| **09** | NLP & Transformer Ecosystem | 183–231 |
+| **10** | MLOps & Data Engineering | 232–259 |
+| **11** | Generative AI, RAG & LLM Fine-Tuning | 260–308 |
+| **12** | Agentic AI & Multi-Agent Systems | 309–336 |
+| **13** | Reinforcement Learning | 337–350 |
+| **14** | LLMOps, Capstone & Career Readiness | 351–365 |
 
 </div>
 
