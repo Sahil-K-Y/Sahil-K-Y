@@ -92,51 +92,6 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 
 ---
 
-## 🧭 Dual-Pillar Engineering Journey
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=650&color=8B5CF6&center=true&vCenter=true&width=800&lines=Two+Pillars.+One+Goal.;AI%2FML+Systems+Engineering+%2B+Algorithmic+Problem+Solving;Building+Compound+Knowledge+One+Day+At+A+Time." alt="Journey"/>
-</div>
-
-```mermaid
-graph TD
-    A["👨‍💻 Sahil Kumar"]
-    
-    A --> B["🧠 AI / ML Engineering"]
-    A --> C["⚙️ Algorithmic Problem Solving"]
-    
-    B --> D0["📈 Statistics & Math"]
-    D0 --> D["📊 Classical ML"]
-    D --> E["🧩 Advanced ML & Ensembles"]
-    E --> F["🧠 Deep Learning & PyTorch"]
-    F --> G["👁️ Computer Vision"]
-    F --> H["💬 NLP & Transformers"]
-    G --> I["✨ Generative AI & LLMs"]
-    H --> I
-    I --> J["⚙️ MLOps & Production"]
-    J --> K["🤖 Agentic AI Systems"]
-    
-    C --> C0["🔢 Arrays, Strings & Math"]
-    C0 --> L["🥞 Linear Structures"]
-    L --> M["🔍 Search & Recursion"]
-    M --> N["🌳 Trees & Heaps"]
-    N --> P["🕸️ Graph Algorithms"]
-    P --> Q["🧩 Dynamic Programming"]
-    Q --> R["🏆 Interview Ready"]
-    
-    K --> O["🚀 AI/ML Engineer"]
-    R --> O
-    
-    classDef default fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC;
-    classDef active fill:#1E293B,stroke:#10B981,stroke-width:3px,color:#34D399;
-    classDef capstone fill:#311C54,stroke:#7C3AED,stroke-width:3px,color:#C084FC;
-    
-    class A,B,C,C0,D0,D,E,L,M,N active;
-    class O capstone;
-```
-
----
-
 ## 🤖 AI/ML — 365-Day Master Roadmap
 
 <div align="center">
