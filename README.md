@@ -2,20 +2,20 @@
 <!--                    PREMIUM HERO                        -->
 <!-- ====================================================== -->
 <div align="center">
-  <!-- Waving Gradient Capsule Header (Slate-Slate-Cyan-SkyBlue Cinematic Blend) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0E7490&height=220&section=header&text=Sahil%20Kumar&fontSize=56&fontColor=F8FAFC&fontAlignY=36&desc=AI/ML%20and%20Systems%20Engineer%20%7C%20Algorithmic%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
+  <!-- Waving Gradient Capsule Header (Slate-Cyan Cinematic Blend) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0E7490&height=220&section=header&text=Sahil%20Kumar&fontSize=56&fontColor=F8FAFC&fontAlignY=36&desc=AI/ML%20Systems%20Engineer%20%7C%20Algorithmic%20Problem%20Solver&descAlignY=57&descSize=16" width="100%"/>
 
   <!-- JetBrains Mono Typing Core SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A7%A0;Closed-Form+Solvers+%E2%86%92+Distributed+MLOps+%E2%86%92+Stateful+Agents;Solving+Advanced+DSA+%26+LeetCode+Patterns+in+C%2B%2B+%E2%9A%99%EF%B8%8F;Currently+Active+On+Day+039%2F365+of+Master+Bootcamp+%F0%9F%93%93;Learning+Through+Theory%2C+Scratch+Code+%26+Rigorous+Experiments+%F0%9F%94%AC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Executing+Day+050%2F365+of+AI%2FML+Master+Bootcamp+%F0%9F%93%93;Advanced+Boosting+%26+Feature+Engineering+Phase+%F0%9F%94%AC;Solving+200%2B+DSA+%26+LeetCode+Patterns+in+C%2B%2B+%E2%9A%99%EF%B8%8F;Mathematical+Rigor+%E2%86%92+Scratch+Code+%E2%86%92+Production+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
   <br/><br/>
 
   <!-- High-Fidelity Custom Badges -->
   <a href="https://github.com/Sahil-K-Y">
     <img src="https://img.shields.io/badge/GitHub-Sahil--K--Y-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sahil-K-Y&label=CORE+ACCESSES&color=0E7490&style=for-the-badge" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sahil-K-Y&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge" alt="Views"/>
   <img src="https://img.shields.io/github/followers/Sahil-K-Y?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/ROADMAP-Day%2039%20%2F%20365-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Roadmap"/>
+  <img src="https://img.shields.io/badge/ROADMAP-Day%2050%20%2F%20365-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Roadmap"/>
   
   <br/><br/>
 
@@ -26,31 +26,23 @@
 
 ---
 
-<!-- ====================================================== -->
-<!--                       ABOUT                            -->
-<!-- ====================================================== -->
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"> About Me // Operator Overview
-
-<br/>
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"> About Me
 
 <div align="center">
 
 ### `AI/ML Systems` is where I build. `DSA Patterns` is how I audit my complexity.
 
-I'm a **B.Tech CSE (Artificial Intelligence)** student building my engineering foundations in machine learning while developing core problem-solving structures through advanced Data Structures & Algorithms in C++.
+I'm a **B.Tech CSE (Artificial Intelligence)** student at DAV University, Jalandhar — building deep engineering foundations in machine learning while developing core problem-solving structures through advanced Data Structures & Algorithms in C++.
 
-I enjoy breaking down **how models work mathematically**, writing clean algorithms from scratch, designing highly optimized preprocessing pipelines, and profiling inference memory boundaries.
+I enjoy breaking down **how models work mathematically**, writing algorithms from scratch, designing optimized preprocessing pipelines, and profiling inference memory boundaries.
 
-My ultimate objective is to look past simple model fitting (`model.fit()`) and master the architecture of **reproducible, self-monitoring, and highly scalable production AI systems**.
+My ultimate objective is to master the architecture of **reproducible, self-monitoring, and highly scalable production AI systems**.
 
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                 CURRENTLY WORKING ON                   -->
-<!-- ====================================================== -->
-## 🎯 Active Operating Systems
+## 🎯 Active Focus
 
 <div align="center">
 <table width="100%">
@@ -58,38 +50,38 @@ My ultimate objective is to look past simple model fitting (`model.fit()`) and m
 <td width="33%" align="center" valign="top">
 
 ### 🤖 AI / ML Core
-*Math & Statistical Learning*
+*Advanced Classical ML*
 <br/><br/>
 <ul align="left">
-<li><b>Active Focus</b>: Boosting & Ensembles</li>
-<li>Gradient Boosting custom impl</li>
-<li>XGBoost & LightGBM native APIs</li>
-<li>Optuna hyperparam auto-tuning</li>
+<li><b>Phase 2:</b> Boosting & Feature Eng.</li>
+<li>XGBoost / LightGBM / CatBoost</li>
+<li>SHAP & LIME Interpretability</li>
+<li>Sklearn Production Pipelines</li>
 </ul>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### ⚙️ DSA & LeetCode
-*Algorithmic Problem Solving*
+*Graph-First Dual-Track*
 <br/><br/>
 <ul align="left">
-<li><b>Active Focus</b>: Non-linear DS</li>
-<li>Binary Trees & Hash Tables</li>
-<li>Binary Search Bounds</li>
-<li>DP Pattern Formulations</li>
+<li><b>200+</b> Problems Solved</li>
+<li>Graphs, Trees & BSTs</li>
+<li>Binary Search & DP Patterns</li>
+<li>36 Topic Categories in C++</li>
 </ul>
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🚀 Engineering & Shipping
+### 🚀 Engineering
 *Reproducible Systems*
 <br/><br/>
 <ul align="left">
 <li>Jupyter Experimentation Logs</li>
-<li>Target Variance Normalizations</li>
-<li>Custom Pipeline Pipelines</li>
+<li>Custom ColumnTransformers</li>
+<li>Optuna Bayesian Optimization</li>
 <li>Documenting in Public</li>
 </ul>
 
@@ -100,9 +92,6 @@ My ultimate objective is to look past simple model fitting (`model.fit()`) and m
 
 ---
 
-<!-- ====================================================== -->
-<!--                   TWO PILLARS                          -->
-<!-- ====================================================== -->
 ## 🧭 Dual-Pillar Engineering Journey
 
 <div align="center">
@@ -113,54 +102,46 @@ My ultimate objective is to look past simple model fitting (`model.fit()`) and m
 graph TD
     A["👨‍💻 Sahil Kumar"]
     
-    %% Dual Pillars Split
-    A --> B["🧠 AI / ML Engineering (Pillar 1)"]
-    A --> C["⚙️ Algorithmic Problem Solving (Pillar 2)"]
+    A --> B["🧠 AI / ML Engineering"]
+    A --> C["⚙️ Algorithmic Problem Solving"]
     
-    %% AI/ML Engineering Path
-    B --> D0["📈 Statistics & Math<br/>(Linear Algebra, Calculus, Probability, Vectors, Matrices, Distributions)"]
-    D0 --> D["📊 Classical Machine Learning<br/>(Linear/Logistic Regression, SVM, Decision Trees, Naive Bayes, KNN)"]
-    D --> E["🧩 Advanced ML & Ensembles<br/>(Random Forest, XGBoost, AdaBoost, PCA, K-Means, DBSCAN)"]
-    E --> F["🧠 Deep Learning & Neural Networks<br/>(ANNs, Backprop, Activations, Adam/SGD, Regularization, Dropout)"]
-    F --> G["👁️ Computer Vision<br/>(CNNs, ResNet, VGG, Object Detection, YOLOv8, Image Segmentation)"]
-    F --> H["💬 NLP & Sequence Models<br/>(RNNs, LSTMs, GRUs, Word2Vec, TF-IDF, Attention Mechanism, BERT)"]
-    G --> I["✨ Generative AI & Advanced LLMs<br/>(Transformers, GPT, RAG, QLoRA Fine-tuning, Prompt Engineering)"]
+    B --> D0["📈 Statistics & Math"]
+    D0 --> D["📊 Classical ML"]
+    D --> E["🧩 Advanced ML & Ensembles"]
+    E --> F["🧠 Deep Learning & PyTorch"]
+    F --> G["👁️ Computer Vision"]
+    F --> H["💬 NLP & Transformers"]
+    G --> I["✨ Generative AI & LLMs"]
     H --> I
-    I --> J["⚙️ MLOps & Production Engineering<br/>(Docker, Kubernetes, FastAPI, MLflow, CI/CD, Model Registries)"]
-    J --> K["🤖 Intelligent Agentic Systems<br/>(LangChain, LangGraph, CrewAI, AutoGen, Autonomous Agents)"]
+    I --> J["⚙️ MLOps & Production"]
+    J --> K["🤖 Agentic AI Systems"]
     
-    %% DSA Path (Complete Linear & Non-Linear)
-    C --> C0["🔢 Arrays, Strings & Math<br/>(Prefix Sum, Two Pointers, Sliding Window, Bit Manipulation)"]
-    C0 --> L["🥞 Linear Structures<br/>(Linked Lists, Monotonic Stacks, Queues, Hash Maps, Sets)"]
-    L --> M["🔍 Search & Recursion<br/>(Binary Search on Answers, Divide & Conquer, Backtracking)"]
-    M --> N["🌳 Trees & Advanced Heaps<br/>(BST, Priority Queues, Tries, Segment Trees, Fenwick Trees)"]
-    N --> P["🕸️ Graph Algorithms<br/>(BFS, DFS, Dijkstra, Bellman-Ford, Topo Sort, MST, DSU)"]
-    P --> Q["🧩 Dynamic Programming<br/>(1D/2D DP, Knapsack, LIS, DP on Trees, Matrix Chain, Greedy)"]
-    Q --> R["🏆 FAANG Problem Solving<br/>(Time/Space Optimization, Complex Constraints, System Design)"]
+    C --> C0["🔢 Arrays, Strings & Math"]
+    C0 --> L["🥞 Linear Structures"]
+    L --> M["🔍 Search & Recursion"]
+    M --> N["🌳 Trees & Heaps"]
+    N --> P["🕸️ Graph Algorithms"]
+    P --> Q["🧩 Dynamic Programming"]
+    Q --> R["🏆 Interview Ready"]
     
-    %% Convergence at Graduation
-    K --> O["🚀 High-Performance AI/ML Engineer"]
+    K --> O["🚀 AI/ML Engineer"]
     R --> O
     
     classDef default fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC;
     classDef active fill:#1E293B,stroke:#10B981,stroke-width:3px,color:#34D399;
     classDef capstone fill:#311C54,stroke:#7C3AED,stroke-width:3px,color:#C084FC;
     
-    class A,B,C,C0,D0,D,L active;
+    class A,B,C,C0,D0,D,E,L,M,N active;
     class O capstone;
 ```
 
 ---
 
-<!-- ====================================================== -->
-<!--                   AI ML JOURNEY                        -->
-<!-- ====================================================== -->
-## 🤖 AI/ML — My Primary Journey (Mathematical Rigor)
+## 🤖 AI/ML — 365-Day Master Roadmap
 
 <div align="center">
 <blockquote>
-<h3>I don't want to only know <i>how to import a model</i>.</h3>
-I want to prove <b>why it works, analyze when it fails, and optimize how it performs.</b>
+<h3>I don't just <i>import models</i> — I derive the math, implement from scratch, then optimize for production.</h3>
 </blockquote>
 </div>
 
@@ -172,12 +153,12 @@ I want to prove <b>why it works, analyze when it fails, and optimize how it perf
 
 ### 📈 Regression
 <ul align="left">
-<li>✅ Vectorized MSE Convexity Proofs</li>
+<li>✅ Vectorized MSE & Convexity</li>
 <li>✅ Normal Equation SVD Solver</li>
-<li>✅ L1/L2 Sparsity & Shrinkage Math</li>
-<li>✅ Coordinate Descent Optimization</li>
-<li>✅ Polynomial Features & Runge's Limits</li>
-<li>✅ SGD Regressor Online loops</li>
+<li>✅ L1/L2 Sparsity & Shrinkage</li>
+<li>✅ Elastic Net l1_ratio Tuning</li>
+<li>✅ Polynomial Overfitting Analysis</li>
+<li>✅ SGD Online Learning Loops</li>
 </ul>
 
 </td>
@@ -185,38 +166,38 @@ I want to prove <b>why it works, analyze when it fails, and optimize how it perf
 
 ### 🎯 Classification
 <ul align="left">
-<li>✅ Bernoulli Likelihood (MLE) Proofs</li>
-<li>✅ Gradient of Log-Loss Derivation</li>
+<li>✅ Sigmoid & Log-Loss Derivation</li>
 <li>✅ Multiclass Softmax Probabilities</li>
-<li>✅ OvR vs. OvO Boundaries Complexity</li>
-<li>✅ Platt & Isotonic Prob Calibration</li>
-<li>✅ Stratified Splits Preventions</li>
+<li>✅ OvR vs OvO Boundaries</li>
+<li>✅ ROC-AUC & PR-AUC Analysis</li>
+<li>✅ StratifiedKFold Validation</li>
+<li>✅ Regularization C-Parameter Sweep</li>
 </ul>
 
 </td>
 <td width="25%" valign="top">
 
-### 📊 Evaluation
+### 🌳 Trees & SVMs
 <ul align="left">
-<li>✅ Micro, Macro, Weighted F1 math</li>
-<li>✅ ROC-AUC vs. PR-AUC Optimizations</li>
-<li>✅ Confusion Matrix Multi-classes</li>
-<li>✅ Breusch-Pagan Homoscedasticity</li>
-<li>✅ Adjusted R² Noise Sensitivities</li>
-<li>✅ Time Series split cross validation</li>
+<li>✅ Gini Impurity & Shannon Entropy</li>
+<li>✅ Cost Complexity Pruning (ccp_alpha)</li>
+<li>✅ SVM Margin & Kernel Tricks</li>
+<li>✅ Random Forest & OOB Scoring</li>
+<li>✅ Feature Importance (MDI vs Perm)</li>
+<li>✅ Naive Bayes & KNN Distance</li>
 </ul>
 
 </td>
 <td width="25%" valign="top">
 
-### 🧩 Ensembles
+### 🚀 Boosting & XAI
 <ul align="left">
-<li>✅ Voting (Hard vs. Soft Probability)</li>
-<li>✅ Bagging (Bootstrap Aggregations)</li>
-<li>🔄 Random Forest (OOB error loop)</li>
-<li>🔄 Feature Subspace Variance reduction</li>
-<li>🔜 XGBoost (Taylor loss optimizations)</li>
-<li>🔜 Stacking & Out-Of-Fold (OOF)</li>
+<li>✅ AdaBoost Weight Update Math</li>
+<li>✅ Gradient Boosting (Residual Fit)</li>
+<li>✅ XGBoost Taylor Expansion</li>
+<li>✅ LightGBM Leaf-Wise Growth</li>
+<li>✅ CatBoost Ordered Boosting</li>
+<li>🔄 SHAP/LIME Interpretability</li>
 </ul>
 
 </td>
@@ -224,18 +205,38 @@ I want to prove <b>why it works, analyze when it fails, and optimize how it perf
 </table>
 
 <div align="center">
-  <code>✅ Learned & Practiced</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔄 Currently Exploring</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔜 Coming Next</code>
+  <code>✅ Completed</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔄 In Progress</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔜 Upcoming</code>
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                   DSA JOURNEY                          -->
-<!-- ====================================================== -->
-## ⚙️ DSA & LeetCode — Sharpening the Algorithmic Engine
+### 🗺️ 12-Phase Roadmap Tracker
 
 <div align="center">
-I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous problem-solving habits, memory optimization techniques, and structured computational thinking.
+
+| Phase | Focus Area | Days | Status | Progress |
+| :---: | :--- | :---: | :---: | :--- |
+| **01** | Core ML & Foundations | 001–038 | ✅ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 `100%` |
+| **02** | Advanced Classical ML & Feature Engineering | 039–056 | 🔄 | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ `67%` |
+| **03** | Unsupervised Learning, Time Series & E2E Project | 057–077 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **04** | Deep Learning Foundations & PyTorch | 078–119 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **05** | Computer Vision & Multimodal AI | 120–161 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **06** | Sequence Models & Recurrent Architectures | 162–182 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **07** | NLP & Transformer Ecosystem | 183–231 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **08** | MLOps & Data Engineering | 232–259 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **09** | Generative AI, RAG & LLM Fine-Tuning | 260–308 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **10** | Agentic AI & Multi-Agent Systems | 309–336 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **11** | Reinforcement Learning | 337–350 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| **12** | LLMOps, Capstone & Career Readiness | 351–365 | 🔜 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+
+</div>
+
+---
+
+## ⚙️ DSA & LeetCode — 180-Day Graph-First Curriculum
+
+<div align="center">
+I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous problem-solving habits and structured computational thinking.
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++"/>
@@ -251,36 +252,36 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 <ul align="left">
 <li>✅ Arrays & Vectors (1D/2D)</li>
 <li>✅ String Manipulations</li>
-<li>✅ Singly Linked Lists</li>
-<li>✅ Doubly Linked Lists</li>
-<li>✅ Circular Linked Lists</li>
+<li>✅ Singly & Doubly Linked Lists</li>
 <li>✅ Stacks & Queues (STL + Array)</li>
+<li>✅ Hash Tables & Unordered Maps</li>
+<li>✅ Prefix Sum & Sliding Window</li>
 </ul>
 
 </td>
 <td width="25%" valign="top">
 
-### 🔍 Search & Optimization
+### 🔍 Search & Recursion
 <ul align="left">
 <li>✅ Binary Search (Bounds & Ranges)</li>
-<li>✅ Two Pointers & Sliding Window</li>
-<li>✅ Hash Tables / Unordered Maps</li>
-<li>✅ Fast Sorting (Merge, Quick, Heap)</li>
+<li>✅ Two Pointers Technique</li>
 <li>✅ Recursion & Divide-and-Conquer</li>
-<li>✅ Backtracking (N-Queens, Sudoku)</li>
+<li>✅ Backtracking (N-Queens, Subsets)</li>
+<li>✅ Fast Sorting (Merge, Quick, Heap)</li>
+<li>✅ Monotonic Stack Patterns</li>
 </ul>
 
 </td>
 <td width="25%" valign="top">
 
-### 🌳 Hierarchical & Graphs
+### 🌳 Trees & Graphs
 <ul align="left">
-<li>✅ Binary Trees & Traversals</li>
-<li>✅ Binary Search Trees (BST)</li>
+<li>✅ Binary Trees & BST Traversals</li>
 <li>✅ Heaps & Priority Queues</li>
-<li>🔄 AVL / Balanced Trees</li>
-<li>🔄 Graphs (Adj List, Matrix)</li>
-<li>🔄 DFS / BFS Traversals</li>
+<li>✅ BFS & DFS Traversals</li>
+<li>✅ Shortest Path (Dijkstra)</li>
+<li>✅ Minimum Spanning Trees</li>
+<li>✅ Topological Sort & Union-Find</li>
 </ul>
 
 </td>
@@ -288,12 +289,12 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 
 ### 🧩 Advanced Patterns
 <ul align="left">
-<li>🔄 Shortest Paths (Dijkstra, Bellman)</li>
-<li>🔄 Topological Sorting</li>
-<li>🔄 Greedy Algorithms (Intervals)</li>
-<li>🔄 Dynamic Programming (Knapsack)</li>
-<li>🔜 Tries & Segment Trees</li>
-<li>🔜 Disjoint Set Union (DSU)</li>
+<li>✅ Dynamic Programming (1D/2D)</li>
+<li>✅ Bit Manipulation</li>
+<li>✅ Trie Data Structures</li>
+<li>✅ Matrix Traversals</li>
+<li>🔄 Graph Advanced (SCC, Bridges)</li>
+<li>🔄 DP on Trees & Bitmask</li>
 </ul>
 
 </td>
@@ -301,170 +302,119 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 </table>
 
 <div align="center">
-  <code>✅ Learned & Practiced</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔄 Currently Exploring</code> &nbsp;&nbsp;&nbsp;&nbsp; <code>🔜 Coming Next</code>
-</div>
 
-<br/>
-
-<div align="center">
-
-### 🏆 LeetCode Operational Analytics
-| Metric | Diagnostic Score | Active Patterns Mastered |
-| :--- | :---: | :--- |
-| **Total Solved** | **250+** | <ul><li>Sliding Window & Two Pointers</li><li>Binary Search Bounds & Binary Matrices</li><li>Recursion & Backtracking Sequences</li><li>DFS / BFS on Trees & Graphs</li></ul> |
-| **Language Speed** | **C++ (STL Native)** | <ul><li>Cache Locality & Pointer Arithmetics</li><li>STL Vectors, Sets, Maps & Unordered Mappings</li><li>Custom Heaps & Priority Queues</li></ul> |
-
-<br/>
-
-> **"The goal isn't memorizing solutions — it's developing the spatial and logical intuition to solve any arbitrary boundary condition."**
+### 🏆 LeetCode Stats
+| Metric | Value |
+| :--- | :---: |
+| **Total Solved** | **200+** |
+| **Topic Categories** | **36** |
+| **Primary Language** | **C++ (STL Native)** |
 
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                    TECH STACK                           -->
-<!-- ====================================================== -->
-## ⚡ Technical Arsenal & Runtime Engines
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [House Price Prediction](https://github.com/Sahil-K-Y/HOUSE_PREDICTION)
+*Production tabular forecasting pipeline*
+<ul align="left">
+<li><b>Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>Streamlit</code> <code>Optuna</code> <code>Joblib</code></li>
+<li>Lasso regression with leak-proof ColumnTransformer</li>
+<li>Interactive Streamlit web application</li>
+<li><code>[STATUS]: ✅ DEPLOYED</code></li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+### 📘 [AI-ML Blueprint](https://github.com/Sahil-K-Y/AI-ML-Blueprint)
+*50+ notebook learning repository*
+<ul align="left">
+<li><b>Stack:</b> <code>Python</code> <code>NumPy</code> <code>XGBoost</code> <code>LightGBM</code> <code>CatBoost</code></li>
+<li>Mathematical derivations & scratch implementations</li>
+<li>365-day structured roadmap with phase tracking</li>
+<li><code>[STATUS]: 🔄 ACTIVE (Day 050)</code></li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [LeetCode Solutions](https://github.com/Sahil-K-Y/LeetCode-Solutions)
+*200+ solutions across 36 DSA categories*
+<ul align="left">
+<li><b>Stack:</b> <code>C++</code> <code>STL</code></li>
+<li>Arrays, Trees, Graphs, DP, Tries, Union-Find & more</li>
+<li>Graph-First dual-track 180-day curriculum</li>
+<li><code>[STATUS]: 🔄 ACTIVE</code></li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Hangman Game](https://github.com/Sahil-K-Y/Hangman-Game)
+*Classic CLI word-guessing game*
+<ul align="left">
+<li><b>Stack:</b> <code>Python</code> <code>CLI</code></li>
+<li>Progressive ASCII art gallows & replay system</li>
+<li>Word categories, input validation, session stats</li>
+<li><code>[STATUS]: ✅ COMPLETE</code></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Technical Arsenal
 
 <div align="center">
 
-### 💻 System Languages
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Languages"/>
 
 <br/><br/>
 
-### 📊 Tabular ML & Mathematical Diagnostics
+### 📊 ML & Data Science
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xstate&logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightning&logoColor=white" alt="LightGBM"/>
 <img src="https://img.shields.io/badge/Optuna-4C55A5?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Optuna"/>
-<img src="https://img.shields.io/badge/SHAP-Black?style=for-the-badge&logo=statuspage&logoColor=white" alt="SHAP"/>
 
 <br/><br/>
 
-### 🛠️ Development & Version Control
+### 🛠️ Development & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" alt="Dev Tools"/>
 
 </div>
 
 <br/>
 
-### 🔮 Neural Core & MLOps Pipelines (Exploring Next)
+### 🔮 Coming Next (Scheduled Phases)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,docker,fastapi&theme=dark" alt="Future Stack"/>
   <br/><br/>
   
   `PyTorch` • `Deep Learning` • `Computer Vision` • `NLP & Transformers`
   
-  `Generative AI & LLMs` • `vLLM serving` • `MLOps Pipelines (MLflow/DVC)` • `Agentic AI (LangGraph)`
+  `Generative AI & LLMs` • `MLOps (MLflow/DVC)` • `Agentic AI (LangGraph)`
   
   <br/>
-  <sub><i>These represent the scheduled phases of my 365-day roadmap, not technologies I claim to have mastered yet.</i></sub>
+  <sub><i>These represent scheduled phases of my 365-day roadmap, not technologies I claim to have mastered yet.</i></sub>
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                     PROJECTS                           -->
-<!-- ====================================================== -->
-## 🚀 Featured Systems & Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Ames House Pricing Intelligence
-*Mathematically rigorous tabular forecasting pipeline.*
-<ul align="left">
-<li><b>Engineering Highlights:</b> Log-transformed skewed variables to stabilize targets variance; engineered leak-proof custom <code>ColumnTransformer</code> pipelines; utilized <b>Optuna Bayesian optimization</b> over ElasticNet hyperparameter search spaces.</li>
-<li><b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Optuna</code> <code>Joblib</code> <code>Matplotlib</code></li>
-<li><b>Deliverable:</b> <code>Day 011 - House Price Prediction Project.ipynb</code></li>
-<li><code>[STATUS]: VERIFIED</code> <code>[INFERENCE]: 1.2ms</code> <code>[COMPLEXITY]: TABULAR</code></li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 Clinical Breast Tumor Classifier
-*High-recall, threshold-tuned clinical diagnostic classifier.*
-<ul align="left">
-<li><b>Engineering Highlights:</b> Implemented soft margin SVM classification boundaries; tuned predictive boundaries using dynamic clinical cost-utility matrices to drastically minimize false negatives; plotted ROC and PR-AUC.</li>
-<li><b>Tech Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>Seaborn</code> <code>Matplotlib</code></li>
-<li><b>Deliverable:</b> <code>Day 021 - Breast Cancer Classification Project.ipynb</code></li>
-<li><code>[STATUS]: COMPLETED</code> <code>[RECALL]: 98.6%</code> <code>[VRAM]: MINIMAL</code></li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  ### 🔨 Building Next In Line
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=1900&pause=550&color=38BDF8&center=true&vCenter=true&width=800&lines=Advanced+Ensemble+Learning+Models+%F0%9F%8C%B3;Boosting+%26+Taylor-regularized+XGBoost+%F0%9F%9A%80;Customer+Segmentation+via+PCA+SVD+decomposition+%F0%9F%94%8D;PyTorch+Neural+Optimization+Loops+%F0%9F%A7%A0;YOLOv8+Webcam+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Generative+LLM+QLoRA+Fine-tuning+%E2%9C%A8;Automated+MLOps+CI/CD+Pipelines+%E2%9A%99%EF%B8%8F" alt="Building Next"/>
-</div>
-
----
-
-<!-- ====================================================== -->
-<!--                    ROADMAP                             -->
-<!-- ====================================================== -->
-## 🗺️ The Road Ahead // Detailed 365-Day Timeline
-
-<div align="center">
-I'm executing a highly structured, day-by-day learning journey designed to move systematically from <b>closed-form tabular mathematics</b> to production-grade AI engineering.
-<br/><br/>
-
-### `Machine Learning Fundamentals`
-⬇️
-### `Advanced Ensemble Boosting & XAI`
-⬇️
-### `Unsupervised SVD & Time Series Forecasting`
-⬇️
-### `PyTorch Neural Architectures & CNNs`
-⬇️
-### `Sequence Modeling, Attention & Transformers`
-⬇️
-### `Computer Vision & Object Detection (YOLOv8)`
-⬇️
-### `MLOps APIs, Serialization & CI/CD Pipelines`
-⬇️
-### `Generative LLMs, RAG & Stateful Agents`
-⬇️
-### 🚀 **Production-Scale Systems Architecture**
-</div>
-
-<br/>
-
-<details>
-<summary><b>🗺️ Expand / Collapse Detailed 12-Phase Operational Log (Days 001–365)</b></summary>
-<br/>
-
-| Phase | Days | Focused Domain | Core Advanced Milestone |
-| :---: | :---: | :--- | :--- |
-| **01** | 001–039 | Core ML & Foundations | Verbatim locked completed days, Gradient Descent math, Trees/SVM baseline classifiers |
-| **02** | 040–056 | Finish Core & Adv. Classical ML | Gradient Boosting custom impl, XGBoost/LightGBM/CatBoost, Optuna, Calibrations & XAI |
-| **03** | 057–077 | Unsupervised & Time Series | K-Means, GMM EM algorithms, t-SNE/UMAP, ARIMA/SARIMA, and E2E Tabular System |
-| **04** | 078–119 | Deep Learning & PyTorch | Backprop calculus derivations, custom training loops, Adam/AdamW optimizers, and PyTorch DL Pipeline |
-| **05** | 120–161 | Computer Vision & Multimodals | CNNs (ResNet/EfficientNet), custom YOLOv8, U-Net Segmentation, and CV system deployment |
-| **06** | 162–182 | Sequence Models & Recurrents | Vanilla RNNs, BPTT derivation, LSTMs/GRUs gate mechanics, attention scoring, bidirectional recurrents |
-| **07** | 183–231 | NLP & Transformers | Word2Vec CBOW/Skip-gram, scaled dot-product Multi-Head Attention, BERT/GPT architecture, Transformer NLP |
-| **08** | 232–259 | MLOps & Data Engineering | SQL Window Functions, FastAPI serving, Docker multi-containers, DVC versioning, and CI/CD pipelines |
-| **09** | 260–308 | Generative AI, RAG & LLMs | Context windows (RoPE), Hybrid Search, reranking, RAGAS, LoRA/QLoRA math, Llama-3 fine-tuning, RAG |
-| **10** | 309–336 | Agentic AI Systems | Tool calling, ReAct reasoning loop, LangGraph stateful cyclic graphs, supervisor patterns, MCP servers |
-| **11** | 337–350 | Reinforcement Learning | Bellman equations, Monte Carlo, Q-Learning & SARSA from scratch, Gymnasiums, DQN, PPO |
-| **12** | 351–365 | LLMOps, Capstone & Careers | Langfuse tracking, Redis semantic caches, final Flagship Capstone, mock interviews, career readiness |
-
-</details>
-
----
-
-<!-- ====================================================== -->
-<!--                  GITHUB ANALYTICS                      -->
-<!-- ====================================================== -->
-## 📊 System Diagnostics (GitHub Analytics)
+## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahil-K-Y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=F8FAFC&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -475,10 +425,7 @@ I'm executing a highly structured, day-by-day learning journey designed to move 
 
 ---
 
-<!-- ====================================================== -->
-<!--                 CONTRIBUTION ACTIVITY                  -->
-<!-- ====================================================== -->
-## 📈 Neural Contribution Telemetry
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K-Y&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=F8FAFC&area=true&hide_border=true" alt="Activity Graph"/>
@@ -486,10 +433,7 @@ I'm executing a highly structured, day-by-day learning journey designed to move 
 
 ---
 
-<!-- ====================================================== -->
-<!--                       CONNECT                          -->
-<!-- ====================================================== -->
-## 🤝 Secure Comms & Integrations
+## 🤝 Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/sahil-k-y">
@@ -497,23 +441,16 @@ I'm executing a highly structured, day-by-day learning journey designed to move 
   </a>
   
   <br/><br/>
-  🤝 **Open to collaborative ML runtimes** &nbsp; • &nbsp; ⚙️ **Practicing optimized DSA in C++** &nbsp; • &nbsp; 🚀 **Shipping systems in public**
+  🤝 **Open to collaborative ML projects** &nbsp; • &nbsp; ⚙️ **Practicing optimized DSA in C++** &nbsp; • &nbsp; 🚀 **Building in public**
   <br/><br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Learn+the+Mathematics.+%F0%9F%A7%A0;Deconstruct+the+Logic.+%F0%9F%92%A1;Write+the+Scratch+Code.+%F0%9F%92%BB;Benchmark+the+Runtimes.+%F0%9F%94%AC;Architect+the+System.+%F0%9F%9A%80" alt="Process Loop"/>
-  <br/>
 
   ### 💭 Engineering Philosophy
   > **"Understand the math from scratch. Optimize the algorithms for speed. Package the systems for scale."**
 
   <br/>
 
-  ### ⚡ My Mission
-  **Proving Equations • Auditing Code • Engineering AI**
-  <br/><br/>
-
-  ⭐️ **From Sahil Kumar — Advanced AI/ML & Systems Engineer in the Making 🚀**
+  ⭐️ **Sahil Kumar — AI/ML Systems Engineer in the Making 🚀**
 </div>
 
-<!-- Bottom Waving Capsule (Slate-Slate-Cyan-SkyBlue Inverted) -->
+<!-- Bottom Waving Capsule -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,35:0E7490,70:0F172A,100:020617&height=120&section=footer" width="100%"/>
