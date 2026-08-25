@@ -107,12 +107,12 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 
 ### 📈 Regression
 <ul align="left">
-<li>✅ Vectorized MSE & Convexity</li>
-<li>✅ Normal Equation SVD Solver</li>
-<li>✅ L1/L2 Sparsity & Shrinkage</li>
-<li>✅ Elastic Net l1_ratio Tuning</li>
-<li>✅ Polynomial Overfitting Analysis</li>
-<li>✅ SGD Online Learning Loops</li>
+<li>Vectorized MSE & Convexity</li>
+<li>Normal Equation SVD Solver</li>
+<li>L1/L2 Sparsity & Shrinkage</li>
+<li>Elastic Net l1_ratio Tuning</li>
+<li>Polynomial Overfitting Analysis</li>
+<li>SGD Online Learning Loops</li>
 </ul>
 
 </td>
@@ -120,12 +120,12 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 
 ### 🎯 Classification
 <ul align="left">
-<li>✅ Sigmoid & Log-Loss Derivation</li>
-<li>✅ Multiclass Softmax Probabilities</li>
-<li>✅ OvR vs OvO Boundaries</li>
-<li>✅ ROC-AUC & PR-AUC Analysis</li>
-<li>✅ StratifiedKFold Validation</li>
-<li>✅ Regularization C-Parameter Sweep</li>
+<li>Sigmoid & Log-Loss Derivation</li>
+<li>Multiclass Softmax Probabilities</li>
+<li>OvR vs OvO Boundaries</li>
+<li>ROC-AUC & PR-AUC Analysis</li>
+<li>StratifiedKFold Validation</li>
+<li>Regularization C-Parameter Sweep</li>
 </ul>
 
 </td>
@@ -133,12 +133,12 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 
 ### 🌳 Trees & SVMs
 <ul align="left">
-<li>✅ Gini Impurity & Shannon Entropy</li>
-<li>✅ Cost Complexity Pruning (ccp_alpha)</li>
-<li>✅ SVM Margin & Kernel Tricks</li>
-<li>✅ Random Forest & OOB Scoring</li>
-<li>✅ Feature Importance (MDI vs Perm)</li>
-<li>✅ Naive Bayes & KNN Distance</li>
+<li>Gini Impurity & Shannon Entropy</li>
+<li>Cost Complexity Pruning (ccp_alpha)</li>
+<li>SVM Margin & Kernel Tricks</li>
+<li>Random Forest & OOB Scoring</li>
+<li>Feature Importance (MDI vs Perm)</li>
+<li>Naive Bayes & KNN Distance</li>
 </ul>
 
 </td>
@@ -146,12 +146,12 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 
 ### 🚀 Boosting & XAI
 <ul align="left">
-<li>✅ AdaBoost Weight Update Math</li>
-<li>✅ Gradient Boosting (Residual Fit)</li>
-<li>✅ XGBoost Taylor Expansion</li>
-<li>✅ LightGBM Leaf-Wise Growth</li>
-<li>✅ CatBoost Ordered Boosting</li>
-<li>🔄 SHAP/LIME Interpretability</li>
+<li>AdaBoost Weight Update Math</li>
+<li>Gradient Boosting (Residual Fit)</li>
+<li>XGBoost Taylor Expansion</li>
+<li>LightGBM Leaf-Wise Growth</li>
+<li>CatBoost Ordered Boosting</li>
+<li>SHAP/LIME Interpretability</li>
 </ul>
 
 </td>
@@ -170,21 +170,21 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 | **03** | Tree Models & SVM | 022–038 |
 | **04** | Boosting & Advanced Ensembles | 039–056 |
 | **05** | Unsupervised Learning & Time Series | 057–077 |
-| **06** | Deep Learning Foundations & PyTorch | 078–119 |
-| **07** | Computer Vision & Multimodal AI | 120–161 |
-| **08** | Sequence Models & Recurrent Architectures | 162–182 |
-| **09** | NLP & Transformer Ecosystem | 183–231 |
-| **10** | MLOps & Data Engineering | 232–259 |
-| **11** | Generative AI, RAG & LLM Fine-Tuning | 260–308 |
-| **12** | Agentic AI & Multi-Agent Systems | 309–336 |
-| **13** | Reinforcement Learning | 337–350 |
-| **14** | LLMOps, Capstone & Career Readiness | 351–365 |
+| **06** | Deep Learning Foundations & PyTorch | 078–122 |
+| **07** | Computer Vision & Multimodal AI | 123–164 |
+| **08** | Sequence Models & Recommender Systems | 165–189 |
+| **09** | NLP & Transformer Ecosystem | 190–238 |
+| **10** | MLOps & Data Engineering | 239–267 |
+| **11** | Generative AI, RAG & LLM Fine-Tuning | 268–316 |
+| **12** | Agentic AI & Multi-Agent Systems | 317–344 |
+| **13** | Reinforcement Learning | 345–358 |
+| **14** | LLMOps, Capstone & Career Readiness | 359–374 |
 
 </div>
 
 ---
 
-## ⚙️ DSA & LeetCode — 180-Day Graph-First Curriculum
+## ⚙️ DSA & LeetCode — 200-Day Graph-First Curriculum
 
 <div align="center">
 I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous problem-solving habits and structured computational thinking.
@@ -201,12 +201,12 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 
 ### 🔢 Linear Structures
 <ul align="left">
-<li>✅ Arrays & Vectors (1D/2D)</li>
-<li>✅ String Manipulations</li>
-<li>✅ Singly & Doubly Linked Lists</li>
-<li>✅ Stacks & Queues (STL + Array)</li>
-<li>✅ Hash Tables & Unordered Maps</li>
-<li>✅ Prefix Sum & Sliding Window</li>
+<li>Arrays & Vectors (1D/2D)</li>
+<li>String Manipulations</li>
+<li>Singly & Doubly Linked Lists</li>
+<li>Stacks & Queues (STL + Array)</li>
+<li>Hash Tables & Unordered Maps</li>
+<li>Prefix Sum & Sliding Window</li>
 </ul>
 
 </td>
@@ -214,12 +214,12 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 
 ### 🔍 Search & Recursion
 <ul align="left">
-<li>✅ Binary Search (Bounds & Ranges)</li>
-<li>✅ Two Pointers Technique</li>
-<li>✅ Recursion & Divide-and-Conquer</li>
-<li>✅ Backtracking (N-Queens, Subsets)</li>
-<li>✅ Fast Sorting (Merge, Quick, Heap)</li>
-<li>✅ Monotonic Stack Patterns</li>
+<li>Binary Search (Bounds & Ranges)</li>
+<li>Two Pointers Technique</li>
+<li>Recursion & Divide-and-Conquer</li>
+<li>Backtracking (N-Queens, Subsets)</li>
+<li>Fast Sorting (Merge, Quick, Heap)</li>
+<li>Monotonic Stack Patterns</li>
 </ul>
 
 </td>
@@ -227,12 +227,12 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 
 ### 🌳 Trees & Graphs
 <ul align="left">
-<li>✅ Binary Trees & BST Traversals</li>
-<li>✅ Heaps & Priority Queues</li>
-<li>✅ BFS & DFS Traversals</li>
-<li>✅ Shortest Path (Dijkstra)</li>
-<li>✅ Minimum Spanning Trees</li>
-<li>✅ Topological Sort & Union-Find</li>
+<li>Binary Trees & BST Traversals</li>
+<li>Heaps & Priority Queues</li>
+<li>BFS & DFS Traversals</li>
+<li>Shortest Path (Dijkstra)</li>
+<li>Minimum Spanning Trees</li>
+<li>Topological Sort & Union-Find</li>
 </ul>
 
 </td>
@@ -240,12 +240,12 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 
 ### 🧩 Advanced Patterns
 <ul align="left">
-<li>✅ Dynamic Programming (1D/2D)</li>
-<li>✅ Bit Manipulation</li>
-<li>✅ Trie Data Structures</li>
-<li>✅ Matrix Traversals</li>
-<li>🔄 Graph Advanced (SCC, Bridges)</li>
-<li>🔄 DP on Trees & Bitmask</li>
+<li>Dynamic Programming (1D/2D)</li>
+<li>Bit Manipulation</li>
+<li>Trie Data Structures</li>
+<li>Matrix Traversals</li>
+<li>Graph Advanced (SCC, Bridges)</li>
+<li>DP on Trees & Bitmask</li>
 </ul>
 
 </td>
@@ -277,7 +277,6 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 <li><b>Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>Streamlit</code> <code>Optuna</code> <code>Joblib</code></li>
 <li>Lasso regression with leak-proof ColumnTransformer</li>
 <li>Interactive Streamlit web application</li>
-<li><code>[STATUS]: ✅ DEPLOYED</code></li>
 </ul>
 
 </td>
@@ -289,7 +288,6 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 <li><b>Stack:</b> <code>Python</code> <code>NumPy</code> <code>XGBoost</code> <code>LightGBM</code> <code>CatBoost</code></li>
 <li>Mathematical derivations & scratch implementations</li>
 <li>365-day structured roadmap with phase tracking</li>
-<li><code>[STATUS]: 🔄 ACTIVE (Day 050)</code></li>
 </ul>
 
 </td>
@@ -302,8 +300,7 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 <ul align="left">
 <li><b>Stack:</b> <code>C++</code> <code>STL</code></li>
 <li>Arrays, Trees, Graphs, DP, Tries, Union-Find & more</li>
-<li>Graph-First dual-track 180-day curriculum</li>
-<li><code>[STATUS]: 🔄 ACTIVE</code></li>
+<li>Graph-First dual-track 200-day curriculum</li>
 </ul>
 
 </td>
@@ -315,7 +312,6 @@ I practice <b>Data Structures & Algorithms in C++</b> to cultivate rigorous prob
 <li><b>Stack:</b> <code>Python</code> <code>CLI</code></li>
 <li>Progressive ASCII art gallows & replay system</li>
 <li>Word categories, input validation, session stats</li>
-<li><code>[STATUS]: ✅ COMPLETE</code></li>
 </ul>
 
 </td>
