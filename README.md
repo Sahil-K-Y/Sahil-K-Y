@@ -91,7 +91,7 @@ My ultimate objective is to master the architecture of **reproducible, self-moni
 
 ---
 
-## 🤖 AI/ML — 365-Day Master Roadmap
+## 🤖 AI/ML
 
 <div align="center">
 <blockquote>
